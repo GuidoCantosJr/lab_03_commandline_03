@@ -36,7 +36,22 @@ $ touch foo.txt
 $ ls
 Copy and paste the output below.
 ----------
-
+Adlm			foo.txt
+Adobe			google.html
+Applications		hello.txt
+Desktop			ipe.properties
+Documents		isus
+Downloads		mtec1002
+Library			mtec1002-lab-02.zip
+MPLABXProjects		mtec1002-lab-03
+Movies			newfile.txt
+New Unity Project	pymel.log
+Pictures		qux.txt
+Public			stuff
+QLData			test
+Things			videogames.txt
+chili.txt		xgen
+filename.txt
 
 
 ==========
@@ -44,6 +59,22 @@ Copy and paste the output below.
 
 $ touch bar.txt
 ----------
+Adlm			foo.txt
+Adobe			google.html
+Applications		hello.txt
+Desktop			ipe.properties
+Documents		isus
+Downloads		mtec1002
+Library			mtec1002-lab-02.zip
+MPLABXProjects		mtec1002-lab-03
+Movies			newfile.txt
+New Unity Project	pymel.log
+Pictures		qux.txt
+Public			stuff
+QLData			test
+Things			videogames.txt
+chili.txt		xgen
+filename.txt
 
 
 
@@ -61,6 +92,23 @@ Copy and paste the output below.
 
 Write the command that you used to copy the file.  Additionally, copy and paste the output of your file listing below.
 ----------
+Adlm			filename.txt
+Adobe			foo.txt
+Applications		google.html
+Desktop			hello.txt
+Documents		ipe.properties
+Downloads		isus
+Library			mtec1002
+MPLABXProjects		mtec1002-lab-02.zip
+Movies			mtec1002-lab-03
+New Unity Project	newfile.txt
+Pictures		pymel.log
+Public			qux.txt
+QLData			stuff
+Things			test
+bar.txt			videogames.txt
+baz.txt			xgen
+chili.txt
 
 
 
@@ -69,6 +117,25 @@ Write the command that you used to copy the file.  Additionally, copy and paste 
 
 Write the command that you used to remove the file.  Copy and paste the output of your file listing below.
 ----------
+rm
+Adlm			filename.txt
+Adobe			foo.txt
+Applications		google.html
+Desktop			hello.txt
+Documents		ipe.properties
+Downloads		isus
+Library			mtec1002
+MPLABXProjects		mtec1002-lab-02.zip
+Movies			mtec1002-lab-03
+New Unity Project	newfile.txt
+Pictures		pymel.log
+Public			qux.txt
+QLData			stuff
+Things			test
+baz.txt			videogames.txt
+chili.txt		xgen
+
+
 ==========
 11. Move the file called foo.txt to qux.txt and then list the files again.
 
