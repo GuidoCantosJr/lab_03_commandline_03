@@ -76,7 +76,10 @@ This command should have a *flag* to specify the output file.  MAKE SURE TO NAME
 Write the command(s) that you used to download this file - as well as its output - below:
 ----------
 
-
+curl -o filename.txt someurl.com
+% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- 100   162  100   162    0     0    770      0 --:--:-- --:--:-- --:--:--   775
 
 
 ==========
@@ -84,6 +87,9 @@ Write the command(s) that you used to download this file - as well as its output
 
 Write the command(s) that you used to do this - as well as its output - below:
 ----------
+% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- 100   162  100   162    0     0    228      0 --:--:-- --:--:-- --:--:--   814
 
 
 
