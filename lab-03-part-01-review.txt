@@ -15,7 +15,7 @@ This lab will review downloading and uncompressing files, and it will get us set
 
 Write the command that you used to do this below:
 ----------
-
+cd ~
 
 
 ==========
@@ -31,6 +31,16 @@ Write the command that you used to do this - as well as its output - below :
 
 Write the command(s) that you used to determine this - as well as its output - below:
 ----------
+it is ls 
+Adlm			Music			isus
+Adobe			New Unity Project	mtec1002
+Applications		Pictures		mtec1002-lab-02.zip
+Desktop			Public			pymel.log
+Documents		QLData			stuff
+Downloads		Things			test
+Library			google.html		xgen
+MPLABXProjects		hello.txt
+Movies			ipe.properties
 
 
 
@@ -38,8 +48,8 @@ Write the command(s) that you used to determine this - as well as its output - b
 4. If there are directories or files in your home directory that have the word mtec1002 in them, list them below (otherwise skip this step):
 ----------
 
-
-
+mtec1002
+mtec1002-lab-02.zip
 ==========
 5. Delete these directories from your home folder by using this command:
 
@@ -51,7 +61,7 @@ $ rm -rf mtec1002-labs-02
 
 (skip if these directories don't exist)
 ----------
-
+Nothing happened. Nothing existed
 
 
 ==========
@@ -65,6 +75,7 @@ This command should have a *flag* to specify the output file.  MAKE SURE TO NAME
 
 Write the command(s) that you used to download this file - as well as its output - below:
 ----------
+
 
 
 
